@@ -1,4 +1,0 @@
-# Ignoring specific files
-tictactoe_2
-poza_label
-*.png
